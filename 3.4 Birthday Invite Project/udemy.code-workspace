@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../3.0 List Elements"
+		},
+		{
+			"path": "../2.4 Movie Ranking Project"
+		},
+		{
+			"path": "../3.2 Anchor Elements"
+		},
+		{
+			"path": "../3.3 Image Elements"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../4.0 File Paths"
+		},
+		{
+			"path": "../4.1 Webpages"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"J.C": "cpp"
+		}
+	}
+}
